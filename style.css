@@ -1,0 +1,12 @@
+<style type="text/css">
+    body {background:#D6C8BD;}
+    #container_m {width:100%; margin: auto; }
+    #wrap_m {width:95%; margin:auto; display:flex; justify-content: space-evenly; min-width: 1268px;}
+    #wrap_m > div { }
+    #wrap_m > div img {width:240px;}
+    
+    #container_n {width:100%; margin: auto; }
+    #wrap_n {width:80%; margin: auto;}
+    table {width:100%;}
+    td {border:1px solid grey;}
+    </style>
